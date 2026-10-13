@@ -1,0 +1,1 @@
+Capture genuine screenshots from the running app. Include catalog, cart, register/login, admin panel, analytics, and Stripe test checkout.
